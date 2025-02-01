@@ -34,6 +34,7 @@ public class User {
 
 	    
 	    public User() {
+	    	
 		}
 
 		public User(Long id, String name, String email, String phone, LocalDate birthDate, String password) {
